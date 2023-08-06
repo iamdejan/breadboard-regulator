@@ -16,15 +16,17 @@ This project aims to replicate the work of [MB102 breadboard power supply module
         - Input capacitor (C-in): [0.33 μF polarized capacitor](https://www.tokopedia.com/elantech/elco-0-33uf-50v-nichicon-fg-fine-gold-0-33-uf-kapasitor-elantech)
         - Input-output noise filtering capacitor(s): [0.1 uF ceramic capacitor](https://www.tokopedia.com/cncstorebandung/10pcs-capacitor-ceramic-kapasitor-keramik-100nf-104-0-1uf-50v-10pcs)
         - Output capacitor (C-out): [0.1 μF polarized capacitor](https://www.tokopedia.com/elantech/elco-0-1uf-50v-nichicon-fg-fine-gold-0-1-uf-kapasitor-elantech-fw)
+        - Red LED 5mm (for power indicator)
 - [LD1117V33 IC](https://www.tokopedia.com/ecadio/ic-regulator-33v-ld1117v33-ld33v)
     - Datasheet:
         - [Addicore](http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf)
         - [Sparkfun](https://www.sparkfun.com/datasheets/Components/LD1117V33.pdf)
     - Dependencies:
-        - Input diode: TBD
-        - Input capacitor (C-in): 100 nF
-        - Input-output noise filtering capacitor(s): TBD
-        - Output capacitor (C-out): 10 μF
+        - Input diode: [BAT 43 Schottky Diode](https://www.tokopedia.com/elantech/bat43-dioda-vishay-small-signal-schottky-diode-bat-43-elantech)
+        - Input-output capacitor (C-in and C-out): [10 μF](https://www.tokopedia.com/elantech/elco-10uf-50v-nichicon-fw-gold-10-uf-kapasitor-capacitor-elantech)
+        - Input-output noise filtering capacitor(s): [1 μF](https://www.tokopedia.com/elantech/1uf-105-mlcc-multilayer-ceramic-capacitor-1-uf-kapasitor-elantech)
+        - Red LED 5mm (for power indicator)
+- Output: TBD
 
 ## How to Use
 
