@@ -14,7 +14,7 @@ This project aims to replicate the work of [MB102 breadboard power supply module
     - Dependencies:
         - Input diode: [BAT 43 Schottky Diode](https://www.tokopedia.com/elantech/bat43-dioda-vishay-small-signal-schottky-diode-bat-43-elantech)
         - Input capacitor (C-in): [0.33 μF polarized capacitor](https://www.tokopedia.com/elantech/elco-0-33uf-50v-nichicon-fg-fine-gold-0-33-uf-kapasitor-elantech)
-        - Input-output noise filtering capacitor(s): [0.1 uF ceramic capacitor](https://www.tokopedia.com/cncstorebandung/10pcs-capacitor-ceramic-kapasitor-keramik-100nf-104-0-1uf-50v-10pcs)
+        - Input-output noise filtering capacitor(s): [0.1 μF ceramic capacitor](https://www.tokopedia.com/cncstorebandung/10pcs-capacitor-ceramic-kapasitor-keramik-100nf-104-0-1uf-50v-10pcs)
         - Output capacitor (C-out): [0.1 μF polarized capacitor](https://www.tokopedia.com/elantech/elco-0-1uf-50v-nichicon-fg-fine-gold-0-1-uf-kapasitor-elantech-fw)
         - Red LED 5mm (for power indicator)
 - [LD1117V33 IC](https://www.tokopedia.com/ecadio/ic-regulator-33v-ld1117v33-ld33v)
