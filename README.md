@@ -28,9 +28,11 @@ This project aims to replicate the work of [MB102 breadboard power supply module
         - Input-output noise filtering capacitor(s): [1 μF](https://www.tokopedia.com/elantech/1uf-105-mlcc-multilayer-ceramic-capacitor-1-uf-kapasitor-elantech)
         - Power indicator: [Red LED 5mm](https://www.tokopedia.com/starlectric/led-5mm-merah-5pcs-pack)
         - [Pin header 2.54mm](https://www.tokopedia.com/starlectric/header-pin-1x40-40pin-male)
-- Output:
-    - 5V+GND male pin.
-    - 3.3V+GND male pin.
+
+## Output
+
+    - +5V and GND male pins.
+    - +3.3V and GND male pins.
 
 ## How to Use
 
