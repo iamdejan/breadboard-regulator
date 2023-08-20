@@ -4,7 +4,7 @@ This project aims to replicate the work of [MB102 breadboard power supply module
 
 ## Components
 
-- [PRT-10811 DC barrel jack](https://www.tokopedia.com/starlectric/dc-005-module-socket-female-dc-5-5mm-x-2-1mm-jack-dc-in-9v-12v)
+- [PRT-10811 DC barrel jack](https://www.tokopedia.com/freelab/socket-dc-in-female-jack-dc-barrel-soket-5-5x2-1mm-pcb)
     - Datasheet:
         - [Sparkfun](https://cdn.sparkfun.com/datasheets/Prototyping/18742.pdf)
         - Input voltage: 9-12V. Usually, 9V is okay, but depending on the diode used, we may need to use 12V.
