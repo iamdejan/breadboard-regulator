@@ -13,7 +13,7 @@ This project aims to replicate the work of [MB102 breadboard power supply module
         - [STMicroelectronics](https://www.st.com/resource/en/datasheet/bat42.pdf)
     - In case where Schottky diode is not available, we can use [1N4001 diode](www.tokopedia.com/starlectric/dioda-in4001-1n-4001-in-4001-diode-1n4001).
         - Use 12V input **if** we use 1N4001 diode to compensate for voltage drop.
-- [LM7805 IC](https://www.tokopedia.com/rajaavr/ic-regulator-7805-l7805cv-lm7805-voltage-regulator-5-volt)
+- [LM7805 IC](https://www.tokopedia.com/starlectric/l7805-lm-7805-lm7805-5v-voltage-tegangan-regulator-l-7805-to-220)
     - Datasheet:
         - [Sparkfun](https://www.sparkfun.com/datasheets/Components/LM7805.pdf)
         - [DatasheetPDF](https://datasheetspdf.com/pdf-file/766812/ThinkiSemiconductor/LM7805/1)
