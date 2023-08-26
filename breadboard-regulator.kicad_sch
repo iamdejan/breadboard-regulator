@@ -1539,7 +1539,7 @@
   (symbol (lib_id "Regulator_Linear:LD1117S33TR_SOT223") (at 151.13 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b16718c7-83fd-414b-9ecf-2a3193f670aa)
-    (property "Reference" "U3" (at 151.13 91.44 0)
+    (property "Reference" "U2" (at 151.13 91.44 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LD1117V33_TO-220" (at 151.13 93.98 0)
@@ -1557,7 +1557,7 @@
     (instances
       (project "breadboard-regulator"
         (path "/6c69cf60-5166-477a-bd3a-75a53b81548c"
-          (reference "U3") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
